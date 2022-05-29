@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=dbdomino%20git&fontSize=90)
 - 👋 Hi, I’m @dbdomino
 - 👀 I’m interested in ...
